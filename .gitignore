@@ -1,0 +1,9 @@
+*.code-workspace
+
+log.txt
+error/*
+!just to make sure the folder exists
+tokens.py
+
+__pycache__/
+*.pyc
